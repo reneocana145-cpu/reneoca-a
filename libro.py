@@ -30,7 +30,7 @@ libro1 = Libro("Cien años de soledad", "Gabriel García Márquez", 417)
 libro2 = Libro("1984", "George Orwell", 328)
 libro3 = Libro("El Principito", "Antoine de Saint-Exupéry", 96)
 
-# Instanciar biblioteca
+# Instanciar biblioteca cambiando el nombre de la clase a Biblioteca
 biblioteca = Biblioteca()
 
 # Probar funciones
